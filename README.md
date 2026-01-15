@@ -2,11 +2,11 @@
 <h3 align="center">A Passionate Full Stack Developer from Sri Lanka 🇱🇰</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=https://github.com/kaveesha-sithum&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onedark&row=1&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=https://github.com/kaveesha-sithum&theme=onedark&row=1&margin-w=15" />
 </p>
 
 ---
